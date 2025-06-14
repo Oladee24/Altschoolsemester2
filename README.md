@@ -65,13 +65,11 @@ reload Nginx:
 
 # web page 
 
-![image](https://github.com/user-attachments/assets/23a442db-0ece-465c-8090-fed467708859)
-
-![Screen Shot 2025-06-14 at 19 24 33](https://github.com/user-attachments/assets/7b95b831-6a60-43b6-a21e-f0e0df23b747)
+![Screen Shot 2025-06-14 at 19 37 15](https://github.com/user-attachments/assets/3c8fc499-86cf-4a98-9dbf-2040d887a28d)
 
 
 
-   
 
-![Screen Shot 2025-06-14 at 19 23 53](https://github.com/user-attachments/assets/7f4ba637-ead8-4190-96f7-c75d1635149d)
+
+
 
